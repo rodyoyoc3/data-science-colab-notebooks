@@ -1,0 +1,1 @@
+This repository compiles a collection of Google Colab notebooks developed as part of my Master’s program in Data Science and Artificial Intelligence (UCG). The projects cover a wide range of topics, including Natural Language Processing (NLP), text classification, sentiment analysis, topic modeling, and Convolutional Neural Networks (CNNs) applied to image classification.
